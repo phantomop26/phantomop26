@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sahil.kr.singh.26@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_fy92hiDejxFGiUVX200JQt0kki63riI/view?usp=share_link](https://drive.google.com/file/d/1_fy92hiDejxFGiUVX200JQt0kki63riI/view?usp=share_link)
-
 - ⚡ Fun fact **I've never lost a fight against a grizzly bear.**
 
 <h3 align="left">Connect with me:</h3>
