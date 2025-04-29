@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phantomop26" alt="phantomop26" /></a> </p>
 
-- 🔭 I’m currently working on **EZNYC website**
+- 🔭 I’m currently working on **Fundamenta.ai**
 
 - 🌱 I’m currently learning **Algorithms**
 
