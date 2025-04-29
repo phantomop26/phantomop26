@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phantomop26" alt="phantomop26" /></a> </p>
 
 - 🔭 I’m currently working on **Fundamenta.ai**
