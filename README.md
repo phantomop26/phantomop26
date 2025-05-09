@@ -3,19 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phantomop26" alt="phantomop26" /></a> </p>
 
-- 🔭 I’m currently working on **Fundamenta.ai**
+- 🔭 I’m currently working on **Fundamenta.ai**, building AI‑driven financial modeling tools
+- 🌱 I’m currently learning **Terraform, AWS, and Docker for scalable infrastructure**  
+- 👯 I’m looking to collaborate on **stock analysis pipelines, deep recurrent factor models, and backtesting frameworks**  
+- 🤝 I’m looking for help with **summer 2025 internships in AI development or quantitative finance**  
+- 💬 Ask me about **Python, web scraping (Selenium & Puppeteer), machine learning, DSA, C++, and web development**  
+- 📫 How to reach me **sks9379@nyu.edu** or **sahil.kr.singh.26@gmail.com**  
+- ⚡ Fun fact **I’ve never lost a fight against a grizzly bear (and I plan to keep that record!)**
 
-- 🌱 I’m currently learning **Algorithms**
-
-- 👯 I’m looking to collaborate on **Stock Analysis**
-
-- 🤝 I’m looking for help with **Internships**
-
-- 💬 Ask me about **python, DSA, C++, Web dev**
-
-- 📫 How to reach me **sahil.kr.singh.26@gmail.com**
-
-- ⚡ Fun fact **I've never lost a fight against a grizzly bear.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
